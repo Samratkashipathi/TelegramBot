@@ -4,7 +4,7 @@ import time
 
 from extractedData import extract
 
-TOKEN = "463773549:AAFzM-7tSC8MdtD57Q7gKkVq9Johsc53IXw"
+TOKEN = "#####"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 dict1 = extract()
